@@ -5,6 +5,13 @@
 💻 Learning Python and building ML projects  
 
 ## Skills
+## 💻 Skills
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
 - Python
 - Machine Learning
 - Pandas
@@ -13,3 +20,7 @@
 
 ## Projects
 - Student Score Predictor (Machine Learning Project)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachij16&show_icons=true)
