@@ -12,8 +12,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
 
-## Projects
-- Student Score Predictor (Machine Learning Project)
+## 📂 Projects
+
+🔹 Student Score Predictor  
+Machine Learning model that predicts student exam scores based on study hours using Python and Scikit-learn.
 
 ## 📊 GitHub Stats
 
