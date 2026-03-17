@@ -17,6 +17,14 @@
 🔹 Student Score Predictor  
 Machine Learning model that predicts student exam scores based on study hours using Python and Scikit-learn.
 
+🔹House Price Prediction
+Machine Learning model that predicts the price of house based on size,bedrooms and house age using Python and Scikit-learn.
+
+🔹AI Health Symptoms Checker
+Machine Learning model that predicts disease based on the symptoms using Python,DecisionTree Classifier and Scikit-learn.
+
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachij16&show_icons=true)
